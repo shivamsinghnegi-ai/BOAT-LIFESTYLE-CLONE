@@ -2,6 +2,8 @@
 
 A modern, responsive e-commerce website clone for boAt lifestyle products, featuring a festive sale theme with product showcases, carousels, and a clean user interface.
 
+**[🔗 View Live Site](boatclone1.netlify.app)**
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
